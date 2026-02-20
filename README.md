@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Ayush! 👋 (@ayush-7002)
 
-<!--
-**ayush-7002/ayush-7002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 B.Tech CSE (AI & Machine Learning) Student | Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my digital space! I'm a student at **Parul University** passionate about building intelligent systems and solving complex problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 My Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, C++, Java, C |
+| **AI/ML** | NumPy, Pandas, Scikit-Learn |
+| **Tools** | Git, GitHub, VS Code |
+| **Interests** | Programming, Photography, Mathematics |
+
+---
+
+### 🔭 What I'm Up To
+- 🎓 Pursuing my B.Tech in **Computer Science (AI & ML)**.
+- 🌱 Strengthening my foundations in **Data Structures & Algorithms**.
+- 📸 In my free time, I enjoy **photography** and exploring new tech trends.
+- 💬 Ask me about: **Python, AI career paths, or English Literature.**
+
+---
+
+### 📊 My GitHub Stats
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush-7002&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-7002&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 📧 [Email](ayushrajharnathpur@gmail.com)
