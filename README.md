@@ -1,5 +1,7 @@
 # Hi there, I'm Ayush! 👋 (@ayush-7002)
 
+![Profile Banner](wallpaperflare.com_wallpaper.jpg)
+
 ### 🚀 B.Tech CSE (AI & Machine Learning) Student | Tech Enthusiast
 
 Welcome to my digital space! I'm a student at **Parul University** passionate about building intelligent systems and solving complex problems through code.
@@ -33,4 +35,4 @@ Welcome to my digital space! I'm a student at **Parul University** passionate ab
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 [Email](ayushrajharnathpur@gmail.com)
+- 📧 [Email](mailto:ayushrajharnathpur@gmail.com)
