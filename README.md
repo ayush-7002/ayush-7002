@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush! 👋 (@ayush-7002)
 
-![Profile Banner](https://drive.google.com/file/d/1i2AYQI9mkDvyg_vQ9hBDJc6esRm8fnQP/view?usp=sharing)
+![Profile Banner](wallpaperflare.com_wallpaper.jpg)
 
 ### 🚀 B.Tech CSE (AI & Machine Learning) Student | Tech Enthusiast
 
